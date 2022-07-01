@@ -1,0 +1,8 @@
+tee runs 2 ways:
+show and save content
+using | tee
+echo my name is ariya | tee ariya
+show up my name is ariya in a screen and save to file
+using -a options for append the content in tee
+echo I want to be expert of linux | tee -a ariya
+ls -ltr | tee file_1 file_2 file_3

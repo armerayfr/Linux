@@ -1,0 +1,4 @@
+connect one output command directly to another input command
+symbols
+command1 [arguments] | command2 [arguments]
+usefull to connect multiple commands together
